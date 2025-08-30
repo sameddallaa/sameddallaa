@@ -31,8 +31,9 @@ I'm a driven final year student with a deep interest in Large Language Models (L
 - [LLM-powered Resume Feedback & Analysis](https://github.com/sameddallaa/resume-feedback)  
   *Automated, intelligent feedback for improving resumes.*
 
-- [DQN on a FrozenLake Environment](https://github.com/sameddallaa/frozen-lake-dqn)
+- [DQN on a FrozenLake Environment](https://github.com/sameddallaa/frozen-lake-dqn)  
   *Applied a Deep Q-Network on a FrozenLake gymnasium environment.*
+  
 - [GCN-from-scratch](https://github.com/sameddallaa/GCN-from-scratch)  
   *A faithful, from-scratch implementation of the original GCN paper for learning and experimentation.*
 
